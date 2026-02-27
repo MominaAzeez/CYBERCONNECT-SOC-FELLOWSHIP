@@ -4,7 +4,8 @@ Description: This file has a flag in plain sight (aka "in-the-clear"). The link 
 
 Solution
 Method 1: Downloading the File
-By clicking the link [flag], the file is downloaded. Now check the contents of the file by opening it in Notepad or any text editor.
+By clicking the link [flag], the file is downloaded.
+Now check the contents of the file by opening it in Notepad or any text editor.
 The flag is literally written in plain sight!
 Copy the line and submit it as the solution.
 
